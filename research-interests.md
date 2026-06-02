@@ -1,14 +1,27 @@
 # Research Interests
 
-## Main Themes
+## Photonic Packaging and Optical Interconnects
 
-1. Research theme A
-2. Research theme B
-3. Research theme C
+I am interested in silicon photonics and glass-based photonic platforms for scalable optical redistribution layers, panel-level packaging, and co-packaged optics. Recent work includes SiN photonics on glass and stitching-loss-tolerant waveguide structures for large-area optical interconnects.
 
-## Current Questions
+## Ferroelectric and Oxide-Semiconductor Devices
 
-- What question are you currently investigating?
-- What methods do you use?
-- What broader field does this work contribute to?
+My device work includes HZO-based ferroelectric TFTs, amorphous oxide semiconductor devices, micro-LED driving circuits, and FeDRAM concepts based on a-ITZO/a-IGZO device stacks.
+
+## Display and Memory Applications
+
+I am interested in device architectures that connect material properties to system-level function, especially display uniformity, programmable light intensity, non-volatile behavior, and low-power/high-density memory operation.
+
+## Computational Materials
+
+My earlier work includes computational materials discovery, including Heusler alloys and data-driven structure translation models for crystal compounds.
+
+## Current Direction
+
+My current public-facing research direction sits at the intersection of:
+
+- photonic/electronic integration for next-generation semiconductor packaging
+- ferroelectric materials for device-level memory and display functions
+- scalable fabrication platforms for optical interconnects
+- public, reproducible summaries of research outputs without exposing private data or unpublished materials
 
