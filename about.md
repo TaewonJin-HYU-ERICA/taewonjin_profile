@@ -12,10 +12,13 @@ My research interests include silicon photonics for optical interconnects, co-pa
 - Co-packaged optics
 - Panel-level packaging
 - Optical redistribution layers
+- Silicon photonic modulators
+- Grating couplers
 - Ferroelectric HZO
 - Oxide-semiconductor TFTs
 - Micro-LED displays
 - FeDRAM
+- Device patents
 
 ## Contact
 

@@ -4,6 +4,8 @@
 
 I am interested in silicon photonics and glass-based photonic platforms for scalable optical redistribution layers, panel-level packaging, and co-packaged optics. Recent work includes SiN photonics on glass and stitching-loss-tolerant waveguide structures for large-area optical interconnects.
 
+I also work on silicon photonic components for high-speed optical links, including grating couplers, PN-junction phase shifters, and Mach-Zehnder modulators.
+
 ## Ferroelectric and Oxide-Semiconductor Devices
 
 My device work includes HZO-based ferroelectric TFTs, amorphous oxide semiconductor devices, micro-LED driving circuits, and FeDRAM concepts based on a-ITZO/a-IGZO device stacks.
@@ -19,5 +21,6 @@ My current public-facing research direction sits at the intersection of:
 - photonic/electronic integration for next-generation semiconductor packaging
 - ferroelectric materials for device-level memory and display functions
 - scalable fabrication platforms for optical interconnects
+- high-speed silicon photonic components for O-band communication
 - oxide-semiconductor device engineering for displays and memory
 - public, reproducible summaries of research outputs without exposing private data or unpublished materials
