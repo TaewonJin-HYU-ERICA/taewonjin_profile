@@ -12,10 +12,6 @@ My device work includes HZO-based ferroelectric TFTs, amorphous oxide semiconduc
 
 I am interested in device architectures that connect material properties to system-level function, especially display uniformity, programmable light intensity, non-volatile behavior, and low-power/high-density memory operation.
 
-## Computational Materials
-
-My earlier work includes computational materials discovery, including Heusler alloys and data-driven structure translation models for crystal compounds.
-
 ## Current Direction
 
 My current public-facing research direction sits at the intersection of:
@@ -23,5 +19,5 @@ My current public-facing research direction sits at the intersection of:
 - photonic/electronic integration for next-generation semiconductor packaging
 - ferroelectric materials for device-level memory and display functions
 - scalable fabrication platforms for optical interconnects
+- oxide-semiconductor device engineering for displays and memory
 - public, reproducible summaries of research outputs without exposing private data or unpublished materials
-

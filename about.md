@@ -16,9 +16,7 @@ My research interests include silicon photonics for optical interconnects, co-pa
 - Oxide-semiconductor TFTs
 - Micro-LED displays
 - FeDRAM
-- Computational materials discovery
 
 ## Contact
 
 - Google Scholar: <https://scholar.google.com/citations?hl=ko&user=YzMAC8kAAAAJ&view_op=list_works&sortby=pubdate>
-
